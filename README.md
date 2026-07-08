@@ -39,8 +39,8 @@ The system bypasses fragile high-level framework wrappers by constructing an exp
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/your-username/deep-agent-coding.git](https://github.com/your-username/deep-agent-coding.git)
-   cd deep-agent-coding
+      https://github.com/QuratulAin20/Agents.git
+      cd deep-agent-coding
 
    ```
 
