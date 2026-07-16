@@ -49,14 +49,8 @@ flowchart LR
 1. **Clone the Repository:**
 
    ```bash
-<<<<<<< HEAD
       https://github.com/QuratulAin20/Agents.git
       cd deep-agent-coding
-
-=======
-   git clone https://github.com/your-username/deep-agent-coding.git
-   cd deep-agent-coding
->>>>>>> 20add79 (updated)
    ```
 
 2. **Create and Activate a Virtual Environment:**
